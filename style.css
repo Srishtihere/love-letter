@@ -1,0 +1,70 @@
+h1{
+  border: 2px solid red;
+  border-radius: 10px;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  margin-left: 400px;
+  background-color: bisque;
+}
+
+body{
+  background-color: rgb(235, 212, 226);
+}
+.line{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid rgba(0, 0, 0, 0);
+  border-radius: 10px;
+  padding: 20px 20px;
+  margin: 20px 20px;
+  /* background-color: orange; */
+  background-image: url(Free-vector-pattern-Vintage-Floral-removebg-preview.png);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+}
+img{
+  height: 240px;
+  width: 200px;
+  border-radius: 10px;
+}
+#img3{
+  height: 200px;
+  width: 200px;
+}
+
+#img4{
+  height: 200px;
+  width: 200px;
+}
+
+#img6{
+  height: 240px;
+  width: 200px;
+}
+
+#img8{
+  height: 250px;
+  width: 200px;
+}
+
+.last-line{
+  width: 400px;
+  height: 100px;
+  text-align: center;
+  margin-left: 360px;
+  padding: 20px 20px;
+  background-color: pink;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(41-417808_28-collection-of-flower-border-clipart-png-flower-removebg-preview.png) 20% round;
+}
+
+.letter{
+  border-top: 100px solid transparent;
+  border-bottom: 100px solid transparent;
+  padding: 15px;
+  border-image: url(flower-border-with-watercolor_65186-2521-removebg-preview.png) 20% repeat;
+}
